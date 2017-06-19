@@ -12,7 +12,7 @@
 
 # Site settings
 title: novajox
-description: Flowing creativity &#x2192; Cascading bliss
+description: Entrepreneur - Lead Developer Android - Musicien
 owner:
   name: Novajox # or company name
   email: contact@novajox.io
@@ -24,20 +24,19 @@ url: "http://novajox.io" # the base hostname & protocol for your site
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!
-  text: I hope you enjoy my collection
+  title: Bienvenue !
+  text:
 # - title for your blog's featured posts
 features-title: Featured topics
 # - displayed at the bottom
-closing-head: Thanks for visiting
-closing-para: Feel free to get in touch. Cheers!
+closing-head: Merci de votre visite
+closing-para: Au plaisir de se rencontrer ;)
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/garyfaircloth
-  facebook-official: https://facebook.com/gary.faircloth
+  github: https://github.com/novajox
+  linkedin-square: https://linkedin.com/in/jocelyndavid
+  #facebook-official: https://facebook.com/gary.faircloth
   google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
   email: /contact/
   #flickr:
@@ -117,5 +116,5 @@ defaults:
       layout: post
 
 # to initialize arrays in assignments (assign myarr = site.empty_array)
-# (easier to grok than assign myarr = '' | split',')
+# (easier to grok than assign myarr = ''  | split',')
 empty_array: []
